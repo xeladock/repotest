@@ -1,0 +1,5 @@
+---
+# tasks file for test-import-role/
+- name: do stuff
+  yum:
+    name: httpd
